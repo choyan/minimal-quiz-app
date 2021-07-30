@@ -13,7 +13,7 @@ This packaged is bootstrapped with
 # Installation
 Follow the simple instruction
 ```
-git clone http://gitlab.makdos.biz/makdos/react-tailwind-starter.git
+git clone https://github.com/kodeeo/react-tailwind-starter.git
 yarn
 ```
 
