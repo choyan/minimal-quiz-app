@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac9148b-5611-42bc-aa32-1c6bc4f1b1c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/Home/components/SingleView/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home/QuizPart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home/QuizPart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1631117545163" duration="16034000" />
       <workItem from="1631172925637" duration="154000" />
       <workItem from="1631209730338" duration="14060000" />
-      <workItem from="1631290076728" duration="26787000" />
+      <workItem from="1631290076728" duration="27808000" />
     </task>
     <servers />
   </component>

@@ -1,11 +1,10 @@
 {
-  "name": "react-tailwind-starter",
+  "name": "dorik-quiz-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@headlessui/react": "^1.4.0",
-    "@hookform/resolvers": "^2.5.1",
     "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/typography": "^0.4.1",
     "@testing-library/jest-dom": "^5.11.4",
@@ -22,7 +21,6 @@
     "react-sortablejs": "^6.0.0",
     "sortablejs": "^1.14.0",
     "web-vitals": "^0.2.4",
-    "yup": "^0.32.9",
     "zustand": "^3.5.7"
   },
   "scripts": {
