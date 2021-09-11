@@ -2,13 +2,16 @@ module.exports = {
   purge: ['./src/**/*.js', './public/index.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        poppins: ['Poppins', 'system-ui'],
+      },
+    },
   },
   variants: {
-    extend: {},
+    extend: {
+      opacity: ['disabled'],
+    },
   },
-  plugins: [
-    require('@tailwindcss/forms'),
-    require('@tailwindcss/typography'),
-  ],
-}
+  plugins: [require('@tailwindcss/forms'), require('@tailwindcss/typography')],
+};
