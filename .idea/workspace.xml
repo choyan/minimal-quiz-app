@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac9148b-5611-42bc-aa32-1c6bc4f1b1c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shared/QuizCard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/checkSingleAnswers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/classNames.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/components/FormBottom/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/components/QuestionItemCreate/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/components/QuestionItemEdit/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/components/QuizItem/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/components/QuizPrimaryInformation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Home/QuizPart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Home/components/FullPageView/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Home/components/QuestionCard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/components/SingleView/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ModalFinalPoint/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home/QuizPart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home/QuizPart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +70,7 @@
       <workItem from="1631117545163" duration="16034000" />
       <workItem from="1631172925637" duration="154000" />
       <workItem from="1631209730338" duration="14060000" />
-      <workItem from="1631290076728" duration="23790000" />
+      <workItem from="1631290076728" duration="26787000" />
     </task>
     <servers />
   </component>
