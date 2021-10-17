@@ -1,4 +1,4 @@
-# Dorik Quiz App
+# Minimal Quiz App
  - Create React App
  - TailwindCSS
  - React Router
