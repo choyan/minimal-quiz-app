@@ -8,8 +8,8 @@
  - React Hook Form
 
 ## Available Routes
-- `http://localhost:3000` - For general quiz list
-- `http://localhost:3000/quiz/{quizId}` - For single quiz vie
+- `http://localhost:3000` - Normal quiz list
+- `http://localhost:3000/quiz/{quizId}` - Single quiz view
 - `http://localhost:3000/dashboard` - Dashboard for Admin
 - `http://localhost:3000/create-quiz` - To create quiz
 
